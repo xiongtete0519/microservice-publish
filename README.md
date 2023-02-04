@@ -5,8 +5,6 @@
 
 **需求**：将之前学习的cloud-demo微服务集群利用DockerCompose部署
 
-
-
 **实现思路**：
 
 ① 查看课前资料提供的cloud-demo文件夹，里面已经编写好了docker-compose文件
